@@ -1,5 +1,7 @@
 #!/bin/bash
-set -e
-# If cp command fails, the script stops.
-cp file1.txt file2.txt  
-echo "This line won't be printed"
+# This won't cause an error.
+echo "Line 3 -> The value is: $undefined_var"  
+
+set -u
+# This will cause an error.
+echo "Line 7 -> The value is: $undefined_var"  
