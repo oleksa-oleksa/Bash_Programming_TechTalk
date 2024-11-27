@@ -1,0 +1,2 @@
+Let's write a first line to the file
+And another line so that the previous line is kept in the file!
