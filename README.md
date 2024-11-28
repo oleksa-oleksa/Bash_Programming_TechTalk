@@ -3,7 +3,7 @@
 ## Overview  
 Have you ever wondered how to simplify repetitive tasks, process data efficiently, or automate complex workflows without relying on heavy tools?  
 
-Join me for an exciting session on **"The Power of Bash Programming"**, where we’ll explore how Bash scripting can revolutionize your development workflows.  
+Join Alexandra for an exciting session on **"The Power of Bash Programming"**, where we’ll explore how Bash scripting can revolutionize your development workflows.  
 
 ## What You'll Learn  
 - **Why Bash matters**: Understand how this versatile scripting language empowers developers to automate tasks, manage systems, and boost productivity.  
@@ -18,8 +18,8 @@ Trainees, junior developers, and senior developers eager to:
 - Leverage Bash for cloud and system management tasks.  
 
 ## Session Details  
-📅 **Date and Time**: [Insert Date & Time]  
-📍 **Location**: [Insert Location/Virtual Link]  
+📅 **Date and Time**: 29 November 2024, 15:30
+📍 **Location**: Virtual (Online meeting only for internals)
 
 Let’s harness the power of Bash and make your development life easier. See you there!  
 
