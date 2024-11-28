@@ -18,7 +18,8 @@ Trainees, junior developers, and senior developers eager to:
 - Leverage Bash for cloud and system management tasks.  
 
 ## Session Details  
-📅 **Date and Time**: [Insert Date & Time]  
+📅 **Date and Time**: [Insert Date & Time] 
+ 
 📍 **Location**: [Insert Location/Virtual Link]  
 
 Let’s harness the power of Bash and make your development life easier. See you there!  
