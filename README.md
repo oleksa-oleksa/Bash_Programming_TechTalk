@@ -18,7 +18,9 @@ Trainees, junior developers, and senior developers eager to:
 - Leverage Bash for cloud and system management tasks.  
 
 ## Session Details  
+
 📅 **Date and Time**: 29 November 2024, 15:30
+
 📍 **Location**: Virtual (Online meeting only for internals)
 
 Let’s harness the power of Bash and make your development life easier. See you there!  
